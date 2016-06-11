@@ -1,0 +1,46 @@
+img {
+  width: 70%;
+}
+
+@media screen and (max-width: 50%) {
+  img {
+    width: 30%;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  p {
+    font-size: 30%;
+  }
+}
+
+@media screen and (max-width: 30%) {
+  h1 {
+    width: 30%;
+  }
+}
+
+h1 {
+  text-align: center;
+  border-style: solid;
+  border-color: blue;
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+
+}
+table{
+  margin-top: 20px;
+  background-image: url("abstract_green_colorful_mosaic_background_vector_illustration_6817943.jpg");
+}
+
+body{
+  padding: 30px 100px;
+
+}
+#background {
+  background-color: yellow;
+}
+a:visited {
+  color: orange;
+}
